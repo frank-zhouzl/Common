@@ -1,0 +1,8 @@
+D:\tools\.Net Core\Soure\Os.Server\Os.Model\bin\Debug\netcoreapp2.2\Os.Model.deps.json
+D:\tools\.Net Core\Soure\Os.Server\Os.Model\bin\Debug\netcoreapp2.2\Os.Model.dll
+D:\tools\.Net Core\Soure\Os.Server\Os.Model\bin\Debug\netcoreapp2.2\Os.Model.pdb
+D:\tools\.Net Core\Soure\Os.Server\Os.Model\obj\Debug\netcoreapp2.2\Os.Model.csproj.CoreCompileInputs.cache
+D:\tools\.Net Core\Soure\Os.Server\Os.Model\obj\Debug\netcoreapp2.2\Os.Model.AssemblyInfoInputs.cache
+D:\tools\.Net Core\Soure\Os.Server\Os.Model\obj\Debug\netcoreapp2.2\Os.Model.AssemblyInfo.cs
+D:\tools\.Net Core\Soure\Os.Server\Os.Model\obj\Debug\netcoreapp2.2\Os.Model.dll
+D:\tools\.Net Core\Soure\Os.Server\Os.Model\obj\Debug\netcoreapp2.2\Os.Model.pdb

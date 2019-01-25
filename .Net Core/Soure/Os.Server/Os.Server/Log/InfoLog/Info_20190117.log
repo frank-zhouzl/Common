@@ -1,0 +1,35 @@
+2019-01-17 15:07:01,128 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:https://localhost:44350/api/values
+2019-01-17 15:07:01,128 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+RequestUri:https://localhost:44350/api/valuesResponseArgument:aaaaaaa
+****************************************************************************************************
+
+2019-01-17 15:07:52,591 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+RequestUri:https://localhost:44350/api/valuesResponseArgument:aaaaaaa
+****************************************************************************************************
+
+2019-01-17 15:07:52,591 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:https://localhost:44350/api/values
+2019-01-17 15:07:57,212 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:https://localhost:44350/api/values
+2019-01-17 15:07:57,228 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+RequestUri:https://localhost:44350/api/valuesResponseArgument:aaaaaaa
+****************************************************************************************************
+
+2019-01-17 15:08:20,101 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:https://localhost:44350/api/values
+2019-01-17 15:08:20,121 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+RequestUri:https://localhost:44350/api/valuesResponseArgument:aaaaaaa
+****************************************************************************************************
+
+2019-01-17 15:11:21,875 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+RequestUri:https://localhost:44350/api/valuesResponseArgument:aaaaaaa
+****************************************************************************************************
+
+2019-01-17 15:11:21,875 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:https://localhost:44350/api/values

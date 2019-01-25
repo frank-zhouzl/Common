@@ -1,0 +1,38 @@
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Framework\zjl.Framework\bin\Debug\Os.Framework.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Framework\zjl.Framework\bin\Debug\Os.Framework.pdb
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Framework\zjl.Framework\bin\Debug\log4net.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Framework\zjl.Framework\bin\Debug\Newtonsoft.Json.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Framework\zjl.Framework\bin\Debug\log4net.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Framework\zjl.Framework\obj\Debug\Os.Framework.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Framework\zjl.Framework\obj\Debug\Os.Framework.csproj.CopyComplete
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Framework\zjl.Framework\obj\Debug\Os.Framework.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Framework\zjl.Framework\obj\Debug\Os.Framework.pdb
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Framework\Os.Framework\bin\Debug\Os.Framework.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Framework\Os.Framework\bin\Debug\Os.Framework.pdb
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Framework\Os.Framework\bin\Debug\log4net.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Framework\Os.Framework\bin\Debug\Newtonsoft.Json.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Framework\Os.Framework\bin\Debug\log4net.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Framework\Os.Framework\obj\Debug\Os.Framework.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Framework\Os.Framework\obj\Debug\Os.Framework.csproj.CopyComplete
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Framework\Os.Framework\obj\Debug\Os.Framework.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Framework\Os.Framework\obj\Debug\Os.Framework.pdb
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\Os.Framework.dll
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\Os.Framework.pdb
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\log4net.dll
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\Newtonsoft.Json.dll
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\NPOI.dll
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\NPOI.OOXML.dll
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\NPOI.OpenXml4Net.dll
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\log4net.xml
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\obj\Debug\Os.Framework.csproj.CoreCompileInputs.cache
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\obj\Debug\Os.Framework.csproj.CopyComplete
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\obj\Debug\Os.Framework.dll
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\obj\Debug\Os.Framework.pdb
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\Spire.License.dll
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\Spire.Pdf.dll
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\Microsoft.mshtml.dll
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\Spire.License.xml
+D:\tools\.Net Framework\Source\Os.Framework\Os.Framework\bin\Debug\Spire.Pdf.xml

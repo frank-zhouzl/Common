@@ -1,0 +1,7 @@
+2019-01-17 10:01:52,462 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp2
+2019-01-17 10:01:56,708 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+RequestUri:http://localhost:57223/api/Test/WebHttp2ResponseArgument:{"Data":[{"id":"1101","name":"ÕÅÈý","sex":"ÄÐ"}],"ResultType":1,"Message":null}
+****************************************************************************************************
+

@@ -1,0 +1,201 @@
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\obj\Debug\Os.Server.csprojAssemblyReference.cache
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\obj\Debug\Os.Server.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\obj\Debug\zjl.Server.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\obj\Debug\zjl.Server.pdb
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\ApplicationInsights.config
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\zjl.Server.dll.config
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\zjl.Server.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\zjl.Server.pdb
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Antlr3.Runtime.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.AI.DependencyCollector.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.AI.Web.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.AI.WindowsServer.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.ApplicationInsights.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.Web.Infrastructure.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Newtonsoft.Json.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Os.Framework.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Os.Model.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Net.Http.Formatting.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.Helpers.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.Http.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.Http.WebHost.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.Mvc.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.Optimization.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.Razor.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.WebPages.Deployment.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.WebPages.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.WebPages.Razor.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\WebGrease.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\log4net.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Os.Model.pdb
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Newtonsoft.Json.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Net.Http.Formatting.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.Helpers.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.Http.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.Http.WebHost.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.Mvc.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.Optimization.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.Razor.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.WebPages.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.WebPages.Deployment.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\System.Web.WebPages.Razor.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Antlr3.Runtime.pdb
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.ApplicationInsights.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.AI.DependencyCollector.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.AI.WindowsServer.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\Microsoft.AI.Web.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\zh-Hans\System.Web.Http.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Server\obj\Debug\Os.Server.csproj.CopyComplete
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\ApplicationInsights.config
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Antlr3.Runtime.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.AI.DependencyCollector.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.AI.Web.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.AI.WindowsServer.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.ApplicationInsights.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.Web.Infrastructure.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Newtonsoft.Json.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Os.Framework.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Os.Model.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Net.Http.Formatting.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.Helpers.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.Http.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.Http.WebHost.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.Mvc.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.Optimization.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.Razor.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.WebPages.Deployment.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.WebPages.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.WebPages.Razor.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\WebGrease.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\log4net.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Newtonsoft.Json.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Net.Http.Formatting.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.Helpers.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.Http.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.Http.WebHost.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.Mvc.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.Optimization.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.Razor.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.WebPages.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.WebPages.Deployment.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\System.Web.WebPages.Razor.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Antlr3.Runtime.pdb
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.ApplicationInsights.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.AI.DependencyCollector.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.AI.WindowsServer.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Microsoft.AI.Web.xml
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\zh-Hans\System.Web.Http.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\obj\Debug\Os.Server.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\obj\Debug\Os.Server.csproj.CopyComplete
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Os.Server.dll.config
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Os.Server.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\bin\Os.Server.pdb
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\obj\Debug\Os.Server.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Server\obj\Debug\Os.Server.pdb
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\ApplicationInsights.config
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Os.Server.dll.config
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Os.Server.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Os.Server.pdb
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Antlr3.Runtime.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.AI.Agent.Intercept.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.AI.DependencyCollector.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.AI.Web.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.AI.WindowsServer.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.ApplicationInsights.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.Web.Infrastructure.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Newtonsoft.Json.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Os.Framework.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Net.Http.Formatting.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.Helpers.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.Http.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.Http.WebHost.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.Mvc.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.Optimization.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.Razor.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.WebPages.Deployment.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.WebPages.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.WebPages.Razor.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\WebGrease.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\log4net.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\NPOI.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\NPOI.OOXML.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\ICSharpCode.SharpZipLib.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\NPOI.OpenXml4Net.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\NPOI.OpenXmlFormats.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Os.Framework.pdb
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Newtonsoft.Json.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Net.Http.Formatting.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.Helpers.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.Http.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.Http.WebHost.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.Mvc.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.Optimization.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.Razor.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.WebPages.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.WebPages.Deployment.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\System.Web.WebPages.Razor.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Antlr3.Runtime.pdb
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.ApplicationInsights.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.AI.DependencyCollector.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.AI.WindowsServer.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.AI.Web.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\log4net.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\ICSharpCode.SharpZipLib.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\zh-Hans\System.Web.Http.resources.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\obj\Debug\Os.Server.csprojAssemblyReference.cache
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\obj\Debug\Interop.AddInDesignerObjects.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\obj\Debug\Interop.WordTableWizard.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\obj\Debug\Os.Server.csproj.ResolveComReference.cache
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\obj\Debug\Os.Server.csproj.CoreCompileInputs.cache
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\obj\Debug\Os.Server.csproj.CopyComplete
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\obj\Debug\Os.Server.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\obj\Debug\Os.Server.pdb
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Spire.Pdf.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Spire.License.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Microsoft.mshtml.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Spire.Pdf.xml
+D:\tools\.Net Framework\Source\Os.Server\Os.Server\bin\Spire.License.xml

@@ -1,0 +1,15 @@
+D:\tools\.Net Core\Soure\Os.NETCore\Os.NETCore\bin\Debug\netcoreapp2.2\Os.NETCore.deps.json
+D:\tools\.Net Core\Soure\Os.NETCore\Os.NETCore\bin\Debug\netcoreapp2.2\Os.NETCore.dll
+D:\tools\.Net Core\Soure\Os.NETCore\Os.NETCore\bin\Debug\netcoreapp2.2\Os.NETCore.pdb
+D:\tools\.Net Core\DLL\netcoreapp2.2\Os.NETCore.deps.json
+D:\tools\.Net Core\DLL\netcoreapp2.2\Os.NETCore.dll
+D:\tools\.Net Core\DLL\netcoreapp2.2\Os.NETCore.pdb
+D:\tools\.Net Core\Soure\Os.NETCore\Os.NETCore\obj\Debug\netcoreapp2.2\Os.NETCore.csproj.CoreCompileInputs.cache
+D:\tools\.Net Core\Soure\Os.NETCore\Os.NETCore\obj\Debug\netcoreapp2.2\Os.NETCore.AssemblyInfoInputs.cache
+D:\tools\.Net Core\Soure\Os.NETCore\Os.NETCore\obj\Debug\netcoreapp2.2\Os.NETCore.AssemblyInfo.cs
+D:\tools\.Net Core\Soure\Os.NETCore\Os.NETCore\obj\Debug\netcoreapp2.2\Os.NETCore.dll
+D:\tools\.Net Core\Soure\Os.NETCore\Os.NETCore\obj\Debug\netcoreapp2.2\Os.NETCore.pdb
+D:\tools\.Net Core\Soure\Os.Server\Os.Server\bin\Debug\netcoreapp2.2\netcoreapp2.2\Os.NETCore.deps.json
+D:\tools\.Net Core\Soure\Os.Server\Os.Server\bin\Debug\netcoreapp2.2\netcoreapp2.2\Os.NETCore.dll
+D:\tools\.Net Core\Soure\Os.Server\Os.Server\bin\Debug\netcoreapp2.2\netcoreapp2.2\Os.NETCore.pdb
+D:\tools\.Net Core\Soure\Os.NETCore\Os.NETCore\obj\Debug\netcoreapp2.2\Os.NETCore.csprojAssemblyReference.cache

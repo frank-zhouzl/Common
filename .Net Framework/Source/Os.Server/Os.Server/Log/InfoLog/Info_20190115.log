@@ -1,0 +1,63 @@
+2019-01-15 11:30:38,479 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp2
+2019-01-15 11:30:38,514 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+RequestUri:http://localhost:57223/api/Test/WebHttp2ResponseArgument:{"Data":[{"id":"1101","name":"张三","sex":"男"}],"ResultType":1,"Message":null}
+****************************************************************************************************
+
+2019-01-15 11:31:05,989 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp2
+2019-01-15 11:31:29,212 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+RequestUri:http://localhost:57223/api/Test/WebHttp2ResponseArgument:{"Data":[{"id":"1101","name":"张三","sex":"男"}],"ResultType":1,"Message":null}
+****************************************************************************************************
+
+2019-01-15 12:57:59,188 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp2
+2019-01-15 12:58:01,004 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+RequestUri:http://localhost:57223/api/Test/WebHttp2ResponseArgument:{"Data":[{"id":"1101","name":"张三","sex":"男"}],"ResultType":1,"Message":null}
+****************************************************************************************************
+
+2019-01-15 13:00:17,941 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2019-01-15 13:00:32,546 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2019-01-15 13:46:47,886 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2019-01-15 13:47:03,998 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2019-01-15 13:50:56,131 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2019-01-15 13:53:54,990 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2019-01-15 13:55:50,811 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2019-01-15 13:57:03,148 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2019-01-15 14:01:34,071 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2019-01-15 14:04:20,687 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2019-01-15 14:17:12,127 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2019-01-15 14:17:27,411 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2019-01-15 14:18:08,624 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2019-01-15 14:18:34,059 INFO  Os.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp

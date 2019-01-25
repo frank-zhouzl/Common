@@ -1,0 +1,16 @@
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Model\bin\Debug\Os.Model.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Model\bin\Debug\Os.Model.pdb
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Model\obj\Debug\Os.Model.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Model\obj\Debug\Os.Model.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\zjl.Server\zjl.Model\obj\Debug\Os.Model.pdb
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Model\bin\Debug\Os.Model.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Model\bin\Debug\Os.Model.pdb
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Model\obj\Debug\Os.Model.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Model\obj\Debug\Os.Model.dll
+D:\BaiduNetdiskDownload\自建立标准框架\自建立标准话框架\Os.Server\Os.Model\obj\Debug\Os.Model.pdb
+D:\tools\.Net Framework\Source\Os.Server\Os.Model\bin\Debug\Os.Model.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Model\bin\Debug\Os.Model.pdb
+D:\tools\.Net Framework\Source\Os.Server\Os.Model\obj\Debug\Os.Model.csproj.CoreCompileInputs.cache
+D:\tools\.Net Framework\Source\Os.Server\Os.Model\obj\Debug\Os.Model.dll
+D:\tools\.Net Framework\Source\Os.Server\Os.Model\obj\Debug\Os.Model.pdb
+D:\tools\.Net Framework\Source\Os.Server\Os.Model\obj\Debug\Os.Model.csprojAssemblyReference.cache

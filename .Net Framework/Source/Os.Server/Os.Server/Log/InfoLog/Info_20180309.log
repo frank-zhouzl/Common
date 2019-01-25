@@ -1,0 +1,21 @@
+2018-03-09 09:56:53,574 INFO  zjl.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2018-03-09 09:56:53,669 INFO  zjl.Server.Filter.LogFilterAttribute - FromIP:::1
+RequestUri:http://localhost:57223/api/Test/WebHttpResponseArgument:{"Data":{"id":"1101","name":"张三","sex":"男"},"ResultType":1,"Message":null}
+****************************************************************************************************
+
+2018-03-09 09:59:09,765 INFO  zjl.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp
+2018-03-09 09:59:09,795 INFO  zjl.Server.Filter.LogFilterAttribute - FromIP:::1
+RequestUri:http://localhost:57223/api/Test/WebHttpResponseArgument:{"Data":{"id":"1101","name":"张三","sex":"男"},"ResultType":1,"Message":null}
+****************************************************************************************************
+
+2018-03-09 09:59:47,832 INFO  zjl.Server.Filter.LogFilterAttribute - FromIP:::1
+
+RequestUri:http://localhost:57223/api/Test/WebHttp2
+2018-03-09 09:59:49,425 INFO  zjl.Server.Filter.LogFilterAttribute - FromIP:::1
+RequestUri:http://localhost:57223/api/Test/WebHttp2ResponseArgument:{"Data":[{"id":"1101","name":"张三","sex":"男"}],"ResultType":1,"Message":null}
+****************************************************************************************************
+

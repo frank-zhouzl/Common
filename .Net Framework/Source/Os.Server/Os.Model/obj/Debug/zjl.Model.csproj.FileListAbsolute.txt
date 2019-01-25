@@ -1,0 +1,6 @@
+G:\自建立标准话框架\zjl.Server\zjl.Model\bin\Debug\zjl.Model.dll
+G:\自建立标准话框架\zjl.Server\zjl.Model\bin\Debug\zjl.Model.pdb
+G:\自建立标准话框架\zjl.Server\zjl.Model\obj\Debug\zjl.Model.csprojResolveAssemblyReference.cache
+G:\自建立标准话框架\zjl.Server\zjl.Model\obj\Debug\zjl.Model.csproj.CoreCompileInputs.cache
+G:\自建立标准话框架\zjl.Server\zjl.Model\obj\Debug\zjl.Model.dll
+G:\自建立标准话框架\zjl.Server\zjl.Model\obj\Debug\zjl.Model.pdb

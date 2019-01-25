@@ -1,0 +1,8 @@
+D:\tools\.Net Core\Soure\Os.Server\CoreExtension\bin\Debug\netcoreapp2.2\CoreExtension.deps.json
+D:\tools\.Net Core\Soure\Os.Server\CoreExtension\bin\Debug\netcoreapp2.2\CoreExtension.dll
+D:\tools\.Net Core\Soure\Os.Server\CoreExtension\bin\Debug\netcoreapp2.2\CoreExtension.pdb
+D:\tools\.Net Core\Soure\Os.Server\CoreExtension\obj\Debug\netcoreapp2.2\CoreExtension.csproj.CoreCompileInputs.cache
+D:\tools\.Net Core\Soure\Os.Server\CoreExtension\obj\Debug\netcoreapp2.2\CoreExtension.AssemblyInfoInputs.cache
+D:\tools\.Net Core\Soure\Os.Server\CoreExtension\obj\Debug\netcoreapp2.2\CoreExtension.AssemblyInfo.cs
+D:\tools\.Net Core\Soure\Os.Server\CoreExtension\obj\Debug\netcoreapp2.2\CoreExtension.dll
+D:\tools\.Net Core\Soure\Os.Server\CoreExtension\obj\Debug\netcoreapp2.2\CoreExtension.pdb
